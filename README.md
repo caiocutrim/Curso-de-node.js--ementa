@@ -26,4 +26,4 @@ Iremos criar uma vitrine virtual(loja virtual tipo netshoes com node)
 
 
 
-Obs.: *Essa documentação é passíva de auteração para mais ou para menos tópicos*
+Obs.: *Essa documentação é passíva de alteração para mais ou para menos tópicos*

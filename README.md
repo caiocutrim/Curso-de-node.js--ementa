@@ -22,7 +22,7 @@ Iremos criar uma vitrine virtual(loja virtual tipo netshoes com node)
 
 9 Angular: refatoração  
 
-10 Deploy na open shift(gratuíto)  
+10 Teste de integração contínua e Deploy na open shift(gratuíto)  
 
 
 

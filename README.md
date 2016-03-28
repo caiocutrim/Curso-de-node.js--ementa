@@ -20,9 +20,11 @@ Iremos criar uma vitrine virtual(loja virtual tipo netshoes com node)
 
 8 Angular: componentização e TESTE DE PONTA A PONTA  
 
-9 Angular: refatoração  
+9 Angular: refatoração
 
-10 Teste de integração contínua e Deploy na open shift(gratuíto)  
+10 Integração node-paypal-sdk
+
+11 Teste de integração contínua e Deploy na open shift(gratuíto)  
 
 
 
